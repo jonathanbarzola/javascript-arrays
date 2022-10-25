@@ -1,0 +1,21 @@
+{
+  "name": "javascript-arrays",
+  "version": "1.0.0",
+  "description": "Aprenderé y repasaré métodos de arrays como por ejemplo: forEach, map, filter, reduce, sort, some, find, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanbarzola/javascript-arrays.git"
+  },
+  "keywords": ["methods", "arrays", "javascript"],
+  "author": "Jonathan Barzola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanbarzola/javascript-arrays/issues"
+  },
+  "homepage": "https://github.com/jonathanbarzola/javascript-arrays#readme",
+  "type": "module"
+}
