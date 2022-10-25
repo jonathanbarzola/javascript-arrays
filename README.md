@@ -45,3 +45,11 @@ const doubles = numbers.map(number => number * 2);
 // numbers is still [1, 3, 5, 7, 9]
 
 ```
+
+`map()` ejecuta la función `callback` una vez por cada elemento presente en el array.
+
+`callback` es invocada con tres argumentos:
+
+1. Valor del elemento
+2. El índice del elemento
+3. Array que está siendo recorrido
