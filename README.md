@@ -1,9 +1,12 @@
 # JavaScript Arrays Map, Filter & Reduce
 
-![map-reduce-filter](./assets/filter-map-reduce.webp)
+<br>
+
+<div align=center><img src="./assets/filter-map-reduce.webp" height="200px"></div>
+
+<br>
 
 Aprenderé y repasaré métodos de arrays como por ejemplo: forEach, map, filter, reduce, sort, some, find, etc.
-
 Todo esto gracias a [@Fazt](https://www.youtube.com/c/FaztTech) el mejor youtuber 😁
 
 
