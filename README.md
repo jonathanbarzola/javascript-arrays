@@ -79,3 +79,35 @@ console.log(result);
 
 
 ```
+
+
+## Reduce
+
+El método `reduce()` ejecuta una función **reductora** sobre cada elemento de un array, devolviendo como resultado un **único valor**.
+
+Sintaxis:
+
+```javascript
+
+let value = arr.reduce(function(accumulator, item, index, array) {
+  // ...
+}, [initial]);
+
+```
+Argumentos:
+
+- **accumulator:** es el resultado del llamado previo de la función, equivale a initial la primera vez (si initial es dado como argumento).
+- **item:** es el elemento actual del array.
+- **index:** es la posición.
+- **array:** es el array.
+
+Ejemplo:
+
+```javascript
+
+const  arr = [1, 2, 3, 4, 5];
+
+let result = arr.reduce((sum, current) => sum + current, 0);
+console.log(result); // 15
+
+```
